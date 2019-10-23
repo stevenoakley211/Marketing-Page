@@ -1,0 +1,29 @@
+nav {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+nav h1 {
+  flex-grow: 1;
+}
+.header-container {
+  background-image: url(../img/background-img.png);
+  height: 47.2vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header-container .title {
+  font-size: 3.125em;
+  font-weight: 900;
+  font-family: Montserrat;
+}
+.main-content {
+  display: flex;
+  border-top: 8.375em solid #f6cfca;
+  background-color: #eceae0;
+}
+.main-content .holding-hands {
+  height: 50vw;
+  width: auto;
+}
