@@ -148,12 +148,22 @@ table {
   width: auto;
 }
 header {
-  padding-top: 384px ;
+  height: 413px;
+  margin-top: 346px;
+  margin-right: 91px;
+  margin-bottom: 124px;
   background-color: rgba(255, 255, 255, 0.47);
 }
 header h2 {
+  padding-top: 146px;
+  padding-left: 187px;
   font-family: Montserrat;
+  font-weight: 600;
   font-size: 50px;
+}
+header .button {
+  margin-left: 1468px;
+  background-color: #dccab0;
 }
 .button {
   background-color: #8e8d8a;
@@ -176,7 +186,11 @@ nav {
   justify-content: center;
 }
 nav h1 {
+  font-family: Montserrat;
+  font-weight: 900;
+  font-size: 50px;
   padding-top: 36px;
+  line-height: 1.22;
 }
 nav ul {
   display: flex;
