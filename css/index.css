@@ -165,6 +165,22 @@ header .button {
   margin-left: 1468px;
   background-color: #dccab0;
 }
+.content-box {
+  font-size: 36px;
+}
+.content-box h2 {
+  font-family: Montserrat;
+  font-weight: 600;
+  font-weight: bold-italic;
+}
+.content-box p {
+  font-family: Montserrat;
+}
+.content-box h3 {
+  font-family: Montserrat;
+  font-style: italic;
+  font-weight: 900;
+}
 .button {
   background-color: #8e8d8a;
   border: none;
