@@ -134,7 +134,6 @@ table {
   background-size: cover;
 }
 .header-container .title {
-  font-size: 3.125em;
   font-weight: 900;
   font-family: Montserrat;
 }
@@ -166,7 +165,7 @@ header .button {
   background-color: #dccab0;
 }
 .content-box {
-  font-size: 36px;
+  font-size: 1.895vw;
 }
 .content-box h2 {
   font-family: Montserrat;
