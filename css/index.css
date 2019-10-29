@@ -134,7 +134,6 @@ table {
   background-size: cover;
 }
 .header-container .title {
-  font-size: 3.125rem;
   font-weight: 900;
   font-family: Montserrat;
 }
@@ -159,14 +158,14 @@ header h2 {
   padding-left: 9.842vw;
   font-family: Montserrat;
   font-weight: 600;
-  font-size: 50px;
+  font-size: 2.632vw;
 }
 header .button {
   margin-left: 77.263vw;
   background-color: #dccab0;
 }
 .content-box {
-  font-size: 36px;
+  font-size: 1.895vw;
   padding: 5.895vw 6.053vw 7.632vw;
 }
 .content-box h2 {
@@ -205,7 +204,7 @@ footer div {
   padding: 14px 16px;
   text-align: center;
   text-decoration: none;
-  font-size: 35px;
+  font-size: 1.842vw;
   font-family: Montserrat;
   font-weight: bold;
   font-stretch: normal;
@@ -220,7 +219,7 @@ nav {
 nav h1 {
   font-family: Montserrat;
   font-weight: 900;
-  font-size: 4.167rem;
+  font-size: 2.632vw;
   padding-top: 1.895vw;
   line-height: 1.22;
 }
@@ -234,7 +233,7 @@ nav ul li {
 nav ul li a {
   font-family: Montserrat;
   text-decoration: none;
-  font-size: 1.875rem;
+  font-size: 1.579vw;
   color: black;
   font-weight: normal;
   font-stretch: normal;
