@@ -146,6 +146,9 @@ table {
   height: 50vw;
   width: auto;
 }
+.main-content img {
+  padding: 5vw 7.368vw 6.263vw 6.474vw;
+}
 header {
   height: 21.737vw;
   margin-top: 18.211vw;
